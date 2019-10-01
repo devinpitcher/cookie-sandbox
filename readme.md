@@ -12,6 +12,8 @@ Sure. It's not very great, I put it together very quickly so I could give a list
 
 ## How to use it
 
+`npm i`
+
 `node ./index -p PORT -d 5000 --file=./test.html`
 
 `-p` Port to use. Defaults to `1337`
