@@ -1,0 +1,22 @@
+{
+  "name": "cookie-sandbox",
+  "version": "0.0.1",
+  "description": "Sandbox app to return all cookies created by third-party scripts added to a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://devinpitcher@github.com/devinpitcher/cookie-sandbox.git"
+  },
+  "author": "Devin Pitcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinpitcher/cookie-sandbox/issues"
+  },
+  "homepage": "https://github.com/devinpitcher/cookie-sandbox#readme",
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  }
+}
