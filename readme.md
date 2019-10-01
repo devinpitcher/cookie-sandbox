@@ -14,6 +14,8 @@ Sure. It's not very great, I put it together very quickly so I could give a list
 
 `node ./index -p PORT -d 5000 --file=./test.html`
 
-`-p` Port to use. Defaults to 1337
+`-p` Port to use. Defaults to `1337`
+
 `-d` Delay in ms after network activity has stopped to wait
+
 `--file` Relative path to the HTML file you'd like to load
