@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/devinpitcher/cookie-sandbox#readme",
   "dependencies": {
+    "minimist": "^1.2.0",
     "puppeteer": "^1.20.0"
   }
 }
